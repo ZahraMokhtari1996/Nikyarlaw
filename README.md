@@ -10,7 +10,7 @@
 - [Status / وضعیت](#status--وضعیت)
 - [Key Features / ویژگی‌های کلیدی](#key-features--ویژگی‌های-کلیدی)
 - [Architecture / معماری](#architecture--معماری)
-- [Screenshots & Media / اسکرین‌شات‌ها و رسانه‌ها](#screenshots--media--اسکرین‌شات‌ها-و-رسانه‌ها)
+- [Demo Video/ دموی معرفی](#media--ویدئوی-دمو)
 - [Contact / تماس](#contact--تماس)
 
 ---

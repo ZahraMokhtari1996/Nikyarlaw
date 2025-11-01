@@ -60,20 +60,24 @@ Nikyarlaw is a professional legal-consulting web application with a public clien
 
 ---
 
-## Screenshots & Media / اسکرین‌شات‌ها و رسانه‌ها
-Place visual assets in `/docs/media/` or `/media/` and reference them here. Example items to include:
-- Homepage
-- Service/category page (e.g., Family Law)
-- Abroad panel
-- Admin CMS dashboard (redacted/demo images)
-- Video conference UI (mock/demo)
+## 🎥 Demo Video
+You can watch the demo of the Nikyarlaw web application here:
 
-نمونه فایل‌های رسانه‌ای را در `/docs/media/` یا `/media/` قرار دهید و در اینجا ارجاع دهید. موارد پیشنهادی:
-- صفحه اصلی
-- صفحه خدمات (مثلاً مشاوره خانواده)
-- پنل ایرانیان خارج از کشور
-- داشبورد پنل ادمین (تصاویر دموی بدون اطلاعات حساس)
-- رابط ویدئوکنفرانس (نمونه/دمو)
+[▶️ Watch Demo on YouTube](https://youtu.be/your-demo-link)
+
+Or download it directly from the repository:
+
+`/assets/nikyarlaw-demo.mp4`
+
+
+## 🎥 ویدئوی دمو
+برای مشاهده پیش‌نمایش عملکرد وب‌اپلیکیشن نیک‌یـار، ویدئوی زیر را ببینید:
+
+[▶️ مشاهده در یوتیوب](https://youtu.be/your-demo-link)
+
+یا مستقیماً از این مخزن دانلود کنید:
+
+`/assets/nikyarlaw-demo.mp4`
 
 
 ---

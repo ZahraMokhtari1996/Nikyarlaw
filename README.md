@@ -63,7 +63,7 @@ Nikyarlaw is a professional legal-consulting web application with a public clien
 ## 🎥 Demo Video
 You can watch the demo of the Nikyarlaw web application here:
 
-[▶️ Watch Demo on YouTube](https://youtu.be/your-demo-link)
+[🎥 Watch Demo Video on Google Drive](https://drive.google.com/file/d/1rI4IdIylBCwh9I1PNT6r82QNfdyYQNp0/view?usp=sharing)
 
 Or download it directly from the repository:
 
@@ -72,8 +72,7 @@ Or download it directly from the repository:
 
 ## 🎥 ویدئوی دمو
 برای مشاهده پیش‌نمایش عملکرد وب‌اپلیکیشن نیک‌یـار، ویدئوی زیر را ببینید:
-
-[▶️ مشاهده در یوتیوب](https://youtu.be/your-demo-link)
+https://drive.google.com/file/d/1J5jKS-sXMJC5YpwyRi0iuts9-r28ipIJ/view?usp=sharing
 
 یا مستقیماً از این مخزن دانلود کنید:
 

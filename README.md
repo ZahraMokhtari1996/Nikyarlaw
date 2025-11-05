@@ -65,18 +65,17 @@ You can watch the demo of the Nikyarlaw web application here:
 
 [🎥 Watch Demo Video on Google Drive](https://drive.google.com/file/d/1rI4IdIylBCwh9I1PNT6r82QNfdyYQNp0/view?usp=sharing)
 
-Or download it directly from the repository:
+Or download it directly from the Github Release on this repository.
 
-`/assets/nikyarlaw-demo.mp4`
 
 
 ## 🎥 ویدئوی دمو
 برای مشاهده پیش‌نمایش عملکرد وب‌اپلیکیشن نیک‌یـار، ویدئوی زیر را ببینید:
+
 https://drive.google.com/file/d/1J5jKS-sXMJC5YpwyRi0iuts9-r28ipIJ/view?usp=sharing
 
-یا مستقیماً از این مخزن دانلود کنید:
+یا مستقیماً از بخش Github Release در همین مخزن دانلود کنید.
 
-`/assets/nikyarlaw-demo.mp4`
 
 
 ---
